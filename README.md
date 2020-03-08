@@ -7,7 +7,7 @@ GitHub Profile Card Application is developed in [ReactJS](https://reactjs.org/) 
 ![GitHub Profile Card Demo Image](./src/images/demo1.png)
 ![GitHub Profile Card Demo Image](./src/images/demo2.png)
 ![GitHub Profile Card Demo Image](./src/images/demo3.png)
-![GitHub Profile Card Demo Image](./src/images/demo4.png)
+    ![GitHub Profile Card Demo Image](./src/images/demo4.png)
 
 ### Install Dependencies : 
 Clone or download the repo and run command in terminal
