@@ -4,18 +4,20 @@ GitHub Profile Card Application is developed in [ReactJS](https://reactjs.org/) 
 ## Demo : [CodeSandBox](https://timnp.csb.app/)
 
 ### Demo Image :
-<p align="center">
-  <img width="460" height="300" src="./src/images/demo1.png">
-</p>
+
+###### ReactJS Github Profile -->
 <p align="center">
   <img src="./src/images/demo1.png">
 </p>
+###### Github Profile -->
 <p align="center">
   <img src="./src/images/demo2.png">
 </p>
+###### Not Found Image -->
 <p align="center">
   <img src="./src/images/demo3.png">
 </p>
+###### Google Profile Mobile View -->
 <p align="center">
   <img src="./src/images/demo4.png">
 </p>
