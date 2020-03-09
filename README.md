@@ -4,10 +4,21 @@ GitHub Profile Card Application is developed in [ReactJS](https://reactjs.org/) 
 ## Demo : [CodeSandBox](https://timnp.csb.app/)
 
 ### Demo Image :
-![GitHub Profile Card Demo Image](./src/images/demo1.png)
-![GitHub Profile Card Demo Image](./src/images/demo2.png)
-![GitHub Profile Card Demo Image](./src/images/demo3.png)
-![GitHub Profile Card Demo Image](./src/images/demo4.png)
+<p align="center">
+  <img width="460" height="300" src="./src/images/demo1.png">
+</p>
+<p align="center">
+  <img src="./src/images/demo1.png">
+</p>
+<p align="center">
+  <img src="./src/images/demo2.png">
+</p>
+<p align="center">
+  <img src="./src/images/demo3.png">
+</p>
+<p align="center">
+  <img src="./src/images/demo4.png">
+</p>
 
 ### Install Dependencies : 
 Clone or download the repo and run command in terminal
